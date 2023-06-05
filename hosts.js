@@ -1,22 +1,22 @@
 hosts = {
     'jp': {
-        'ip': '0.0.0.0',
+        'ip': '167.71.196.255',
         'user': 'root',
-        'password': 'root',
+        'password': 'lAhiru1998A',
         'path': '/etc/x-ui/x-ui.db',
         'table': 'client_traffics'
     },
     'in': {
-        'ip': '0.0.0.0',
+        'ip': '178.128.112.22',
         'user': 'root',
-        'password': 'root',
+        'password': 'lAhiru1998A',
         'path': '/etc/x-ui/x-ui.db',
         'table': 'client_traffics'
     },
      'in': {
-        'ip': '0.0.0.0',
+        'ip': '165.22.250.128',
         'user': 'root',
-        'password': 'root',
+        'password': 'lAhiru1998A',
         'path': '/etc/x-ui/x-ui.db',
         'table': 'client_traffics'
     },
